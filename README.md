@@ -8,7 +8,7 @@
 
 Meu nome é Rafael Rodrigo, Estudante de Análise e Desenvolvimento de Sistemas.
 
-- :blue_heart: Techs: Java Desktop e Mobile, React.js, Node.js, TypeScript, entre outras.
+- :blue_heart: Techs: Desenvolvedor Java.
 - :books: Estudando Desenvolvimento web :heart:
 
 
