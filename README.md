@@ -9,7 +9,6 @@
 Meu nome é Rafael Rodrigo, Estudante de Análise e Desenvolvimento de Sistemas.
 
 - :blue_heart: Techs: Desenvolvedor Java.
-- :books: Estudando Desenvolvimento web :heart:
-
+- :books: Estudando C e Dart com Flutter:heart:
 
 ---
